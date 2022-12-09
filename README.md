@@ -1,2 +1,1 @@
-# app-dev
-My First Repository-Lyka Mae Arostique
+**Wednesday is a horror,romance and mystery movie**
